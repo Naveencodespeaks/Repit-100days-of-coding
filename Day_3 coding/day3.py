@@ -1,0 +1,6 @@
+Name_of_food = input("Enter Type of food:-")
+Name_a_type_of_plant = input("Enter a plant you have used:-")
+Name_a_method_of_cooking = input("Enter method of cooking:-")
+discribe_food = input("Discribe food:-")
+Name_diy_item = input("Enter a diy item:-")
+print(Name_a_method_of_cooking,Name_of_food,discribe_food,Name_a_method_of_cooking,"on a bed of",Name_diy_item)
